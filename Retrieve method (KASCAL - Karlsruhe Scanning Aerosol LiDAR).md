@@ -97,7 +97,7 @@ ds = lidar.preprocessing(rs_fl='../KASCAL/1a/2018/04/07/kal_1a_Pfp_rs_xf_2018040
 ```
 ## 4: Lidar retrieval
 ### 4.1 Elastic retrieval method
-The most common used elastic retrieved is Kettle - fernald method. 
+The most common used elastic retrieved is klett - fernald method. 
 - Lidar eqaution
 $$
 P(r)=C_{0}  \frac{\beta_{a e r}(r)+\beta_{m o l}(r)}{r^{2}} \exp \left(-2 \int_{0}^{r}\left[\alpha_{a e r}(r)+\alpha_{m o l}(r)\right] d r\right) 
